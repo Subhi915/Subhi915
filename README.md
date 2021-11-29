@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Subhi915
-- 👀 I’m interested in Python and Business Adminstration 
+- 👀 I’m interested in Python and Data analysis 
 - 🌱 I’m currently learning Deveoping site 
 - 💞️ I’m looking to collaborate on ...
 
